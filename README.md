@@ -7,9 +7,10 @@ A weird little grid-based bullet-hellish game. Made for the 2023 Bullet Hell Jam
   
 1. On Github, click the "Code" button.  
 2. Click "Download ZIP."  
-3. Unzip the downloaded files.  
-4. In a terminal, type "cd bring-a-knife-main."  
-5. Type "python3 main.py" and hit enter to start the game.  
+3. Unzip the downloaded files. 
+4. Take the "bring_a_knife" folder out of the "bring-a-knife-main" folder.   
+5. In a terminal, type "cd bring_a_knife."  
+6. Type "python3 main.py" and hit enter to start the game.  
   
 ## Controls  
 Arrow keys to move.  
